@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 * Luciano Carvalho Couto Ferreira
 * Marcílio da Cruz França Júnior
 * Mariana Aparecida Rodrigues dos Santos 
-
+* Victor Gabriel Cardoso Pio
 ## Orientador
 
 * Marcos Andre Silveira Kutova
